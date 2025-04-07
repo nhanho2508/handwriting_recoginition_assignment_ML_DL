@@ -1,0 +1,7 @@
+tensorflow>=2.8.0
+opencv-python
+pandas
+tqdm
+mltu>=0.3.5
+numpy
+keras>=2.8.0
